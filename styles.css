@@ -1,0 +1,99 @@
+
+body{
+    background-color: rgba(43, 144, 216, 0.447);
+    
+}
+table{
+    margin-left: auto; 
+    margin-right:auto ;
+}
+div{
+    text-align: center;
+} 
+
+hr{
+    
+    border-color:grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 10%;
+}
+
+.st{
+    
+    position: relative;
+    left: 300px;
+    
+}
+
+.nd{
+    
+    position: relative;
+    left: 1050px;
+    
+}
+
+.rd{
+    
+    position: relative;
+    right:300px;
+}
+.bottom{
+    position: relative;
+    left: 300px;
+}
+.th{
+    position: relative;
+    left: 1200px;
+}
+.mountain{
+    position:relative;
+    left: 350px;
+    
+}
+.danny{
+    
+    position:absolute;
+    right: 200px;
+    border-radius: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    
+}
+.danny:hover{
+    
+    
+    filter: drop-shadow(2px 20px 20px rgb(3, 46, 43));
+   
+}
+p{
+    text-align: center;
+}
+span{
+    position: absolute;
+    right: 680px;
+    top: -10px;
+    text-align: center;
+    color: hsl(180, 74%, 18%) ;
+}
+h3{
+    text-align: center;
+    color: hsl(180, 56%, 30%);
+}
+th{
+    color: hsl(180, 73%, 17%);
+}
+.contact{
+    
+    text-align: center;
+}
+.co{
+    
+    text-align: center;
+}
